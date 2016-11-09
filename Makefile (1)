@@ -1,0 +1,4 @@
+obj-y := mysyscall.o
+
+clean:
+	*.o *.order
